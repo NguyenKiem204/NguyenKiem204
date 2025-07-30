@@ -12,7 +12,7 @@ I'm a passionate software developer who loves creating innovative solutions and 
 - 🌱 I'm always learning and exploring new technologies
 - 👯 I'm looking to collaborate on open-source projects
 - 💬 Ask me about web development, programming, or technology
-- 📫 How to reach me: [Your Email]
+- 📫 How to reach me: nkiem347@gmail.com
 - ⚡ Fun fact: I love solving complex problems with elegant solutions
 
 ## 🛠️ Tech Stack
