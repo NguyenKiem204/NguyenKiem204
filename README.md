@@ -8,7 +8,7 @@
 
 I'm a passionate software developer specializing in Java, C#, and modern web technologies. I love building robust backend systems with Spring Boot and ASP.NET Core, as well as creating engaging user interfaces with React and WPF.
 
-- 🔭 I'm currently working on Spring Boot and ASP.NET Core applications
+- 🔭 I'm currently working on Spring Boot and ASP.NET Core applications.
 - 🌱 I'm always learning and exploring Java, C#, and modern web frameworks
 - 👯 I'm looking to collaborate on backend development and full-stack projects
 - 💬 Ask me about Java, C#, Spring Boot, React, or ASP.NET Core
