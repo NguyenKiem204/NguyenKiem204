@@ -11,7 +11,7 @@ I'm a passionate software developer specializing in Java, C#, and modern web tec
 - 🔭 I'm currently working on Spring Boot and ASP.NET Core applications.
 - 🌱 I'm always learning and exploring Java, C#, and modern web frameworks.
 - 👯 I'm looking to collaborate on backend development and full-stack projects.
-- 💬 Ask me about Java, C#, Spring Boot, React, or ASP.NET Core
+- 💬 Ask me about Java, C#, Spring Boot, React, or ASP.NET Core.
 - 📫 How to reach me: nkiem347@gmail.com
 - ⚡ Fun fact: I enjoy building both desktop applications with WPF and web apps with React
 
