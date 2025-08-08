@@ -13,7 +13,7 @@ I'm a passionate software developer specializing in Java, C#, and modern web tec
 - 👯 I'm looking to collaborate on backend development and full-stack projects.
 - 💬 Ask me about Java, C#, Spring Boot, React, or ASP.NET Core.
 - 📫 How to reach me: nkiem347@gmail.com
-- ⚡ Fun fact: I enjoy building both desktop applications with WPF and web apps with React
+- ⚡ Fun fact: I enjoy building both desktop applications with WPF and web apps with React.
 
 ## 🛠️ Tech Stack
 
