@@ -88,7 +88,7 @@ A comprehensive apartment management system built with modern technologies for e
 Backend API service providing robust data management and business logic implementation.
 
 ### 🚦 **Traffic Violation App**
-Application for managing and tracking traffic violations with user-friendly interface and reporting features.
+Application for managing and tracking traffic violations with user-friendly interface and reporting features
 
 ## 🤝 Connect with Me
 
